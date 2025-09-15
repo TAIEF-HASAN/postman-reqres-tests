@@ -1,0 +1,10 @@
+# Ignore Postman global environments or secrets
+*globals.json
+*secrets.json
+
+# Ignore Node modules if ever used
+node_modules/
+
+# Ignore Newman temp files (but keep reports folder structure)
+reports/*.tmp
+reports/*.log
