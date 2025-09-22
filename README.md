@@ -82,6 +82,7 @@ ________________________________________
 SUGGESTED REPO POLISH
 
 •	Add a README badge (Actions) like:
+
 [# ReqRes API Testing with Postman + Newman
 
 [![CI](https://github.com/TAIEF-HASAN/postman-reqres-tests/actions/workflows/run-postman.yml/badge.svg)](https://github.com/TAIEF-HASAN/postman-reqres-tests/actions/workflows/run-postman.yml)
